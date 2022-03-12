@@ -4,7 +4,6 @@ import (
 	"github.com/flosch/pongo2"
 	. "github.com/gin-gonic/gin"
 	"net/http"
-	"fmt"
 )
 
 func Pongo2() HandlerFunc {
